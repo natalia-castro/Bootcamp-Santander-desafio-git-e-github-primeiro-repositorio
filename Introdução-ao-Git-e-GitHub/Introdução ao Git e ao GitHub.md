@@ -12,7 +12,7 @@
 
   * O git funciona majoritariamente por meio de CML (do inglês *Command line interface*)
 
-Alguns comandos comandos são fundamentais:
+Alguns comandos são fundamentais:
 
 - **dir (windows) ou ls (unix):** lista todos diretórios;
 
